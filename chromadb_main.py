@@ -20,15 +20,13 @@ chromadb_collection_name = chromadb_cfg['chromadb_collection_name']
 
 
 def create_vector_db(data_dir, data_format=None):
-    if common_cfg['use_cuda'] == 'True':
-        print('-----------> Using CUDA')
-        embeddings = HuggingFaceEmbeddings(model_name=common_cfg['embedding_model_name'], multi_process=True, model_kwargs={'device':'cuda'})
+    
+    if data_format == 'json':
+        loader = DirectoryLoader(data_dir, glob="*.json", show_progress=True, 
+                                loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.body_text[].text'})
     else:
-        embeddings = HuggingFaceEmbeddings(model_name=common_cfg['embedding_model_name'], multi_process=True, model_kwargs={'device':'cpu'})
-
-
-    loader = DirectoryLoader(data_dir, glob=data_format, show_progress=True, 
-                             loader_cls=JSONLoader, loader_kwargs = {'jq_schema':'.body_text[].text'})
+        raise Exception('#########---------------> Currently this solution can only read json files')
+    
     print('---------> Reading documents to loader')
     documents = loader.load()
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = chromadb_cfg['chunk_size'], chunk_overlap = chromadb_cfg['chunk_overlap'])
@@ -36,6 +34,12 @@ def create_vector_db(data_dir, data_format=None):
     print('---------> Creating Chromadb')
     start_time = time.time()
     
+    if common_cfg['use_cuda'] == 'True':
+        print('-----------> Using CUDA')
+        embeddings = HuggingFaceEmbeddings(model_name=common_cfg['embedding_model_name'], multi_process=True, model_kwargs={'device':'cuda'})
+    else:
+        embeddings = HuggingFaceEmbeddings(model_name=common_cfg['embedding_model_name'], multi_process=True, model_kwargs={'device':'cpu'})
+
     db = Chroma.from_documents(texts, embeddings, 
                                collection_name=chromadb_collection_name, 
                                persist_directory=chromadb_path)    
@@ -52,6 +56,6 @@ def check_create_chromadb(cord19_data_dir, data_format):
         chroma_client.get_collection(chromadb_collection_name)
         print(f"------> Using Chromadb collection '{chromadb_collection_name}'")
     except ValueError as val_error:
-        if val_error =='Collection abc does not exist':
+        if str(val_error) ==f'Collection {chromadb_collection_name} does not exist.':
             print('------> Creating Chromadb')
             create_vector_db(cord19_data_dir, data_format=data_format)
