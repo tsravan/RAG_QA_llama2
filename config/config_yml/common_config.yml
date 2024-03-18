@@ -1,2 +1,2 @@
-use_cuda: 'True'
+use_cuda: 'False' #'True'
 embedding_model_name: sentence-transformers/all-MiniLM-L6-v2
