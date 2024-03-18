@@ -11,7 +11,7 @@ Modify the configs if you want to use your own data.
 
 ![Architecture text](https://github.com/tsravan/RAG_QA_llama2/blob/main/misc/Architecture.drawio.png))
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TH0njNC6oAY/0.jpg)](http://www.youtube.com/watch?v=TH0njNC6oAY)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TH0njNC6oAY/0.jpg)](http://www.youtube.com/watch?v=TJOUZv8ux8Y)
 
 Installation instructions:
 1. Install Python Version 3.11.8
