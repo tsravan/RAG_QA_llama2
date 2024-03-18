@@ -36,6 +36,6 @@ if __name__=='__main__':
                         response = ask_bot(query)
                         # response = st.write_stream(stream)
                         st.write(response['result'])
-                st.session_state.messages.append({"role": "assistant", "content": response})
+                st.session_state.messages.append({"role": "assistant", "content": response['result']})
 
 
