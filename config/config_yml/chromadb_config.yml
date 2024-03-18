@@ -1,0 +1,5 @@
+# ChromaDB path
+chromadb_path: chromaDB
+chromadb_collection_name: cord19
+chunk_size: 500
+chunk_overlap: 25

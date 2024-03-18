@@ -1,0 +1,20 @@
+model_path: 
+
+custom_template:  |
+ use the following information to answer the question. \n if you don't know the answer, please just say that you don't know the answer. \n Question : {question}
+ 
+# custom_template: """Use the following pieces of context provided below to answer the question. 
+# If you don't know the answer, please think rationally and answer from your own knowledge base 
+
+# Context: {context}
+# Question: {question}
+# """
+
+# custom_template: 
+# """You are a medical researcher and a scholar in medical research and clinical trials.
+# Use the following pieces of context 
+# context: {context}
+# Answer the question
+# question: {question}
+# If you don't know the answer, please think rationally and answer from your own knowledge base 
+# """

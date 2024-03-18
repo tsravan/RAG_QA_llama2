@@ -1,0 +1,25 @@
+
+# Directory of Cord19 Data
+cord19_dir: cord19_sample_data
+
+# Meta data file name in cord19_dir
+meta_data_file_name: metadata.csv
+
+# For processing only few documents pass values to data_sample_size and sample_data_folder_name
+# For copying sample data from specified cord19_dir to the specified sample_data_folder_name with specified data_sample_size
+#  -> Number of sample files to be read from the cord19 directory
+data_sample_size: 500
+#  -> Do not give any value to sample_data_folder_name to read data from cord19_dir
+sample_data_folder_name: cord19_sample_data
+
+use_columns:
+  - cord_uid
+  - title
+  - publish_time
+  - abstract
+  - journal
+  - url
+  - pdf_json_files
+  - pmc_json_files
+  - pmcid
+  - sha

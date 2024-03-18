@@ -1,0 +1,24 @@
+import os
+from pathlib import Path
+
+class _Constant:
+    # Read Cord19 Data
+    
+    YML_CONFIG_FOLDER_NAME = 'config_yml'
+    COMMON_CONFIG_FILE_NAME = "COMMON_CONFIG"
+    READ_CORD19_CONFIG_FILE_NAME = "read_cord19_config"
+    CHROMADB_CONFIG_FILE_NAME = "chromadb_config"
+    INFERENCE_CONFIG_FILE_NAME = "inference_config"
+    
+    # Paths
+    # BASE_PATH = Path().resolve().parents 
+    BASE_PATH = os.getcwd()
+    COMMON_CONF_PATH = Path(BASE_PATH, "config")
+
+    COMMON_CONFIG_YML_PATH = COMMON_CONF_PATH / f"{YML_CONFIG_FOLDER_NAME}/{COMMON_CONFIG_FILE_NAME}.yml"
+    DATA_LOADER_CONFIG_YML = COMMON_CONF_PATH / f"{YML_CONFIG_FOLDER_NAME}/{READ_CORD19_CONFIG_FILE_NAME}.yml"    
+    CHROMADB_CONFIG_YML =  COMMON_CONF_PATH / f"{YML_CONFIG_FOLDER_NAME}/{CHROMADB_CONFIG_FILE_NAME}.yml" 
+    INFERENCE_CONFIG_YML =  COMMON_CONF_PATH / f"{YML_CONFIG_FOLDER_NAME}/{INFERENCE_CONFIG_FILE_NAME}.yml"    
+
+
+    

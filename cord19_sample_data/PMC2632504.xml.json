@@ -1,0 +1,2446 @@
+{
+    "paper_id": "PMC2632504",
+    "metadata": {
+        "title": "Results From a Hypothesis Generating Case-Control Study: Herpes Family Viruses and Schizophrenia Among Military Personnel",
+        "authors": [
+            {
+                "first": "David",
+                "middle": [
+                    "W."
+                ],
+                "last": "Niebuhr",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Amy",
+                "middle": [
+                    "M."
+                ],
+                "last": "Millikan",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Robert",
+                "middle": [],
+                "last": "Yolken",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Yuanzhang",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            },
+            {
+                "first": "Natalya",
+                "middle": [
+                    "S."
+                ],
+                "last": "Weber",
+                "suffix": "",
+                "email": null,
+                "affiliation": {}
+            }
+        ]
+    },
+    "body_text": [
+        {
+            "text": "Recent research has focused on infectious agents as potential players in the etiologic pathway of chronic diseases,1\u20133 including psychiatric illnesses such as schizophrenia.4\u201310 Due to their potential neurotropism and latency, viral organisms in particular are considered possible agents in many chronic central nervous system (CNS) disorders.2,11\u201313 Encephalitis and other conditions leading to CNS inflammatory changes often present with symptoms that are difficult to distinguish from new-onset schizophrenia. As significant causes of encephalitis, viruses in the Herpes Simplex Family (herpes simplex virus type 1 [HSV-1], herpes simplex virus type 2 [HSV-2], Epstein-Barr virus [EBV], cytomegalovirus [CMV], varicella-zoster virus [VZV], and human herpes virus type 6 [HHV-6]) are of prime interest in schizophrenia research.14",
+            "cite_spans": [
+                {
+                    "start": 115,
+                    "end": 116,
+                    "mention": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 117,
+                    "end": 118,
+                    "mention": "3",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 173,
+                    "end": 174,
+                    "mention": "4",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 175,
+                    "end": 177,
+                    "mention": "10",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 343,
+                    "end": 344,
+                    "mention": "2",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 345,
+                    "end": 347,
+                    "mention": "11",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 348,
+                    "end": 350,
+                    "mention": "13",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 830,
+                    "end": 832,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Although laboratory-based research into herpes family viruses as possible etiologic agents for schizophrenia goes back decades,15\u201322 ascertaining the nature of a possible etiologic association between infection and schizophrenia is highly challenging. There have been few consistent findings between studies, which could be due to many factors, including the heterogeneity of schizophrenia itself, the use of different immunologic assays across the studies and over time as technology changes, focusing attention on a variety of different infections, and the possibility that maternal infection occurring at the right time during pregnancy may be enough to increase the risk of psychosis in offspring.23 There is more information regarding risks associated with maternal, neonatal, or childhood infection and schizophrenia than for adult infection, with a number of studies reporting increased risk of schizophrenia among persons exposed in utero to a number of infections24\u201326 or born after epidemic.27",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 129,
+                    "mention": "15",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 130,
+                    "end": 132,
+                    "mention": "22",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 701,
+                    "end": 703,
+                    "mention": "23",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 972,
+                    "end": 974,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 975,
+                    "end": 977,
+                    "mention": "26",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1001,
+                    "end": 1003,
+                    "mention": "27",
+                    "ref_id": "BIBREF19"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Little is known about potential mechanisms of action for herpes family virus infections and risk of schizophrenia. Studies of maternal infection provide some evidence that modulation of immune response28 and adverse effects on in utero maturation of critical brain structural and functional componenets24 may correlate with increased risk of schizophrenia in offspring. From animal models, maternal infection can alter interleukin 6, interleukin 1b, or tumor necrosis factor \u03b1 (TNF-\u03b1) in amniotic fluid or placenta and TNF-\u03b1 in the fetal brain.29 There is evidence that cytokines have an important function in the development of fetal neurons and glial cells, and abnormal levels of these (proinflammatory) cytokines may contribute to abnormal brain development,30\u201334 at least in animals.",
+            "cite_spans": [
+                {
+                    "start": 201,
+                    "end": 203,
+                    "mention": "28",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 302,
+                    "end": 304,
+                    "mention": "24",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 544,
+                    "end": 546,
+                    "mention": "29",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 762,
+                    "end": 764,
+                    "mention": "30",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 765,
+                    "end": 767,
+                    "mention": "34",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "Findings from epidemiologic studies of herpes family viruses and schizophrenia among adults are mixed. In their 1995 review article, Yolken and Torrey14 identified numerous published studies assessing viral (not just herpes family viruses) antibodies in serum of schizophrenia cases. Several of the studies were not interpretable because they lacked control groups or were evaluating changes in antibody titers over time. Of 21 interpretable studies, 3 reported positive significant associations with HSV-1 (or HSV unspecified),35\u201337 1 study reported an association with EBV,18 and 1 found a negative association with CMV.38",
+            "cite_spans": [
+                {
+                    "start": 150,
+                    "end": 152,
+                    "mention": "14",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 528,
+                    "end": 530,
+                    "mention": "35",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 531,
+                    "end": 533,
+                    "mention": "37",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 575,
+                    "end": 577,
+                    "mention": "18",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 622,
+                    "end": 624,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "The Military New-Onset Psychosis Project hypothesis-generating studies afford unique opportunities to correct for some of the weaknesses identified in other studies of herpes viruses and schizophrenia. Because the US military routinely collects and stores serum samples and medical data from all active duty personnel, we are able to study large numbers of cases who have prediagnostic serum available and document the prevalence of infection prior to onset of disease. Because military members provide a serum sample at accession and about every 2 years thereafter while they remain on active duty, more than one prediagnostic sample will be available for many individuals. Sera from these routine samples are stored in the Department of Defense Serum Repository (DoDSR).39 Informed consent is not routinely obtained when the serum is drawn; however, the DoDSR is maintained for surveillance and research purposes. Information obtained from this study may lead to more effective means of preventing, identifying, and treating new-onset schizophrenia in this population. This project was reviewed and approved by the appropriate human protection committees at the authors' institutions.",
+            "cite_spans": [
+                {
+                    "start": 772,
+                    "end": 774,
+                    "mention": "39",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "section": "Introduction",
+            "ref_spans": []
+        },
+        {
+            "text": "IgG antibody to human herpes viruses were measured using microplate enzyme immunoassay. Reagents were obtained from the following sources: HSV-1 and HSV-2 from Focus Diagnostics, Cypress, CA; HHV-6 from Advanced Biotechnologies, Columbia, MD; VZV and EBV nuclear antigen from IBL Laboratories, Minneapolis, MN; and CMV from Viro-Immun Labor Diagnostika, Oberursel, Germany.",
+            "cite_spans": [],
+            "section": "Laboratory ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Enzyme immunoassay consists of binding serum to solid-phase antigen and subsequent reactions with enzyme-labeled antihuman IgG and enzyme substrate. The amount of color generated by the enzyme substrate reaction was measured in optical density (OD) units with a microplate colorimeter. This method of analysis was selected because it allows for high throughput measurement of antibodies using a common platform and requiring only small amounts of sample. Samples were run on plates under code in matched groups in which case and control status was not identified.",
+            "cite_spans": [],
+            "section": "Laboratory ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "All matched case-control samples were tested on the same plates, but over the course of the study, samples were assayed on over 21 different plates per agent. To control for potential systematic error introduced by plate-to-plate variation and to ensure that observed differences in OD are due to differential expression (cases or controls) and not experimental artifacts, data were normalized using the robust median normalization method which combines the within-plate and between-plates variance41 using the following equation,\n(1)\nwhere Rijk is the raw OD of ith subject's jth blood sample, Mk is the median of all the control samples in plate k, Vk is the variance of Rijk of control samples in plate k, and Vb is the variance of all Rijk between plates. Therefore, Sijk is the scaled score for the ith subject's jth blood sample on plate k.",
+            "cite_spans": [
+                {
+                    "start": 498,
+                    "end": 500,
+                    "mention": "41",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "section": "Quantitative Antibody Measurements Data Normalization ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "To investigate the relationship between subject status (case or control) and antibody level in a matched study design, conditional logistic regression is used. Failure to account for matching in analysis may lead to biased results, usually toward the null. The conditional analysis, which has a higher (less negative) log likelihood, suggests a better \u201cfit\u201d for this data.42 A guiding concern in regression modeling is that the relationship between the independent and dependent variables (the latter assumed to be continuous) should be as inherently \u201clinear\u201d as possible; hence, OD was analyzed as a continuous, rather than dichotomous (positive vs negative) variable. This approach also preserves the power to detect a difference between cases and controls, particularly because infection with most of these herpes viruses is ubiquitous and differences cannot be detected based on prevalence data.",
+            "cite_spans": [
+                {
+                    "start": 372,
+                    "end": 374,
+                    "mention": "42",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "section": "Quantitative Antibody Measurements Data Normalization ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "For this analysis, we chose the proportional hazards (PH) model for conditional logistic regression.42 The PH model is similar to regular conditional logistic regression but modified to allow for multiple and variable numbers of controls per case and specimens per subject. Dummy \u201csurvival time\u201d to diagnosis was generated so that all samples for a given case had the same event time with corresponding controls censored at a later time. Proportional hazard regression was then used to study associations, reported as hazard ratios (HRs), between \u201csurvival time\u201d and the risk factors. Because the PH assumption might not be true for all the data, but may be true among specific demographic subgroups, we performed stratified analysis on several of the matched variables.",
+            "cite_spans": [
+                {
+                    "start": 100,
+                    "end": 102,
+                    "mention": "42",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "section": "Quantitative Antibody Measurements Data Normalization ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "First, we assessed the overall antibody effect for each agent separately. The analysis was stratified by the matched factors with case or control status as the outcome. Variables analyzed included antibody level, the time from serum collection to the case's diagnosis, and time in service for both cases and controls. Logistic models were developed to assess the antibody effect for modeling the agents separately as well as simultaneously.",
+            "cite_spans": [],
+            "section": "Quantitative Antibody Measurements Data Normalization ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "To study the homogeneity of the agent effect across demographic levels and time, interaction terms were also evaluated. Where an interaction with demographic factor was observed, separate models were developed to explore the possibility of effect modification by those factors. For homogeneity of the agent effect across the time, we studied the interaction with time to diagnosis. Time to diagnosis was categorized as follows: greater than 2 years, 1\u20132 years, 0.5\u20131 year, less than 0.5 year before diagnosis, and after diagnosis. The interaction with time to diagnosis shows the temporal effect of antibody level and describes the consistency of risk across time periods. The interactions of the agents with demographic factors show the heterogeneity of the agent effect by those factors.",
+            "cite_spans": [],
+            "section": "Quantitative Antibody Measurements Data Normalization ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "Because we used scaled values to represent measured antibody level, there is no recognized unit with which to describe increasing or decreasing levels. In this case, we chose the SD as the unit of measure. All results are reported as HRs for each increase of 1 SD of antibody level. This method also allows comparison between the effects of different antibody agents on schizophrenia. The SD of antibody level for the 6 agents ranged from 0.10 for HHV-6 to 0.59 for HSV-2.",
+            "cite_spans": [],
+            "section": "Quantitative Antibody Measurements Data Normalization ::: Methods",
+            "ref_spans": []
+        },
+        {
+            "text": "We found that antibody levels for all 6 agents were only weakly correlated (data not shown), and therefore, collinearity between agents would not likely be a source of bias or instability in the regression modeling. There was little difference in the results between the separate agent antibody models and the model with all agents considered simultaneously. For example, modeling agent separately, with increasing 1 SD, the HR for CMV was 0.87 (95% confidence interval [CI] = 0.77, 0.98), for HHV-6 was 1.13 (95% CI = 1.00, 1.27), comparing the HRs of 0.86 (95% CI = 0.76, 0.98) and 1.17 (95% CI = 1.04, 1.32), respectively, when modeling all 6 agents together. Therefore, only the simultaneous models are presented in table 2, which presents the overall estimation from conditional logistic modeling. No consistent pattern emerged: a significant protective HR (0.86, 95% CI = 0.76, 0.98) was observed for CMV, a significant HR (1.17, 95% CI = 1.04, 1.32) was demonstrated for HHV-6, while no other agents were significantly associated with schizophrenia.",
+            "cite_spans": [],
+            "section": "Overall Antibody Effects ::: Results",
+            "ref_spans": [
+                {
+                    "start": 720,
+                    "end": 727,
+                    "mention": "table 2",
+                    "ref_id": "TABREF1"
+                }
+            ]
+        },
+        {
+            "text": "No significant effect modification was noted for sex (male vs female) or age (<25 vs \u226525) for any of the infectious agents (P values > .10). A significant interaction effect with race (black vs white) was found for HSV-1 (P < .01) and for CMV (P = .03), suggesting that significant differences exist in these antibody effects between black and white cases. As seen in table 3, the HR among black cases was significant for HSV-1 (1.23, 95% CI = 1.02, 1.47), HSV-2 (0.83, 95% CI = 0.70, 0.99), and CMV (0.69, 95% CI = 0.57, 0.84), but no significant findings were observed among white cases. There were no significant interactions between agents and gender, likely due to the small number of female cases (n = 30) in the analyses, but there were differences in antibody effect between men and women. Among women, significant negative HRs were noted for 2 agents, HSV-2 (0.69, 95% CI = 0.52, 0.92) and CMV (0.62, 95% CI = 0.44, 0.89). The HHV-6 effect among males (HR of 1.17, 95% CI = 1.03, 1.33) was almost the same as for all subjects because the majority of subjects were male (83%). For females, the HHV-6 HR was lower (1.08, 95% CI = 0.70, 1.66) but not significant and with a broader CI, reflecting less precision in the estimate. There was no significant difference in antibody effect by age.",
+            "cite_spans": [],
+            "section": "Stratified Analysis ::: Results",
+            "ref_spans": [
+                {
+                    "start": 368,
+                    "end": 375,
+                    "mention": "table 3",
+                    "ref_id": "TABREF2"
+                }
+            ]
+        },
+        {
+            "text": "Among men, only HHV-6 showed weak temporal variability, with the highest HR for sera drawn 12\u20136 months before onset (1.41, 95% CI = 1.02, 1.96) and the lowest HR of for sera drawn 2 years or longer before diagnosis (1.08, 95% CI = 0.88, 1.33) as shown in table 4. No temporal effect was observed for women and other demographic groups due to small sample size.",
+            "cite_spans": [],
+            "section": "Stratified Analysis ::: Results",
+            "ref_spans": [
+                {
+                    "start": 255,
+                    "end": 262,
+                    "mention": "table 4",
+                    "ref_id": "TABREF3"
+                }
+            ]
+        },
+        {
+            "text": "Our hypothesis-generating study found a statistically significant positive HR between HHV-6 and schizophrenia among men and between HSV-1 and schizophrenia among blacks discharged or retired from the military with a diagnosis of schizophrenia and a history of mental health hospitalization.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "A negative association with HSV-2 and CMV was noted among women and blacks. Blacks dominated the results for women. These findings should be interpreted with caution, however, because they are driven by a small number of subjects (n = 80 for black cases, n = 30 for female cases, n = 22 for black females) and may be the result of type I error. Further analysis is warranted with a larger sample size. No significant associations were observed for HSV-2, EBV, or VZV among men or women. No significant association was found among whites for any agent.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Our subanalysis of HHV-6 IgG levels by time period for males around diagnosis is obviously limited by the sample size. We conducted this analysis to replicate the analytic modeling in our previous, related work on Toxoplasma gondii IgG level and risk of schizophrenia.40 The P values of .04 in this hypothesis-generating study warrant further evaluation in the hypothesis-testing phase of our research.",
+            "cite_spans": [
+                {
+                    "start": 268,
+                    "end": 270,
+                    "mention": "40",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "More recently, studies of antibody levels in serum and cerebrospinal fluid demonstrate mixed findings. One analysis of untreated subjects with recent-onset schizophrenia found increased IgG antibody levels to CMV, decreased levels of antibodies to HHV-6 and VZV, and no differences in antibody level to HSV-1 and -2 and EBV.9 Several other studies of cerebrospinal fluid yielded conflicting results with some reporting increased CMV antibody titers38,43\u201345 while others demonstrate no association.46\u201348 Increased levels of HSV-1 antibody were demonstrated in one group of schizophrenic patients compared with normal controls, and cases with higher levels of antibody also demonstrated decreased gray matter in 2 areas of the brain.49 Another study noted that deficit schizophrenics were more likely to have antibodies to CMV than were nondeficit patients.50",
+            "cite_spans": [
+                {
+                    "start": 324,
+                    "end": 325,
+                    "mention": "9",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 448,
+                    "end": 450,
+                    "mention": "38",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 451,
+                    "end": 453,
+                    "mention": "43",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 454,
+                    "end": 456,
+                    "mention": "45",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 497,
+                    "end": 499,
+                    "mention": "46",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 500,
+                    "end": 502,
+                    "mention": "48",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 731,
+                    "end": 733,
+                    "mention": "49",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 855,
+                    "end": 857,
+                    "mention": "50",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "A recent review of the literature regarding CMV and schizophrenia identified a number of studies reporting more frequent infection or higher levels of antibody in serum or cerebrospinal fluid.51 The authors noted that studies conducted in 1992 were all null but that the serum assays utilized had been complement fixation or other less sensitive methods. They note 3 unpublished studies (M. J. Schwarz and N. Mueller, S. Bachmann; J. Schr\u00f6der; and R. H. Yolken, unpublished data) in which patients with schizophrenia were more likely to have antibodies to CMV, or had higher levels of antibodies, than did the control subjects. One of these studies (F. B. Dickerson, C. Stallings, A. Origoni, J. J. Boronow, R. H. Yolken, unpublished data) was of 415 outpatients with schizophrenia and 164 matched controls, in which the odds ratio for CMV positivity was 2.1. The authors note that patients who were seropositive were more likely to be female, black, older, and less educated. Leweke et al9 found that CMV IgG antibody levels, but not HSV-1, HSV-2, EBV, HHV-6, or VZV, were higher among patients with schizophrenia.9",
+            "cite_spans": [
+                {
+                    "start": 192,
+                    "end": 194,
+                    "mention": "51",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 989,
+                    "end": 990,
+                    "mention": "9",
+                    "ref_id": "BIBREF54"
+                },
+                {
+                    "start": 1115,
+                    "end": 1116,
+                    "mention": "9",
+                    "ref_id": "BIBREF54"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Given the limited amount of research reported and the discordant findings among the existing articles regarding herpes viruses and schizophrenia, interpretation of our findings is challenging. Recent work has implicated HHV-6 in acute52 and chronic53,54 neurologic diseases. We note the negative association with HSV-2 and CMV among women and blacks and the positive association with HSV-1 among blacks. Although speculative, and limited by sample size, there is a potential for underlying genetic differences that could explain some portion of the racial differences.",
+            "cite_spans": [
+                {
+                    "start": 234,
+                    "end": 236,
+                    "mention": "52",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 248,
+                    "end": 250,
+                    "mention": "53",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 251,
+                    "end": 253,
+                    "mention": "54",
+                    "ref_id": "BIBREF49"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "There are a number of factors that could potentially account for the discrepancies observed between the various reports above and the present study. These include but are not limited to differences in diagnostic criteria for schizophrenia, all cases were adult onset, different time frames of serum collection related to illness onset, differences in laboratory assays, and multiple vs single serum specimens. In addition, our sample was drawn from the military population that differs from the general US population in several important ways. The male to female ratio in the military is much higher than in the general population, making it difficult to achieve adequate power when analyzing females separately. Comprehensive medical screening prior to entry into the military creates a healthy worker effect in the population and skews our sample toward individuals with later onset of schizophrenia. Also, our cases are a convenience sample of individuals with schizophrenia in the military. A small degree of bias introduced by any of these factors could account for the significance and direction of our findings.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "This study has 2 important strengths. First, we used cases that were diagnosed and discharged from the military after a careful evaluation process.40 A record review conducted on a sample of study subjects demonstrated a high level of concordance between the diagnoses documented in the military records and those assigned by 2 psychiatrist reviewers.55 Also, because military applicants receive an extensive administrative and medical examination prior to accession, are directly supervised while on active duty, and have access to health care, we assumed that cases were not psychotic on accession and that the onset of psychosis would generally result in a mental health hospitalization for an expedited psychiatric evaluation. This assumption was validated by the record review.55 Therefore, we are confident that diagnostic misclassification is not a major source of error in our findings.",
+            "cite_spans": [
+                {
+                    "start": 147,
+                    "end": 149,
+                    "mention": "40",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 351,
+                    "end": 353,
+                    "mention": "55",
+                    "ref_id": "BIBREF50"
+                },
+                {
+                    "start": 782,
+                    "end": 784,
+                    "mention": "55",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "In addition, the current study obtained multiple (between 1 and 3) specimens for most subjects both prior to and after onset of illness in the matched case. The second specimen, collected in the 3- to 24-month period prior to first mental health hospitalization was chosen as preonset of psychosis. The ability to analyze longitudinal specimens may be important if illness alters behaviors in a way that could impact antibody levels or if medical treatment for illness changes antibody responses.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Although this hypothesis-generating study does not resolve the issue of diverse findings between studies, we feel that our study has advantages over other studies with our high degree of diagnostic validity, adequate numbers of appropriate controls, and multiple serum specimens. It is clear that additional studies are needed to clarify the many remaining questions, particularly regarding HHV-6, CMV, and HSV-1. As part of our broad research program, we will be conducting a much larger case-control study with approximately 1600 cases and 2100 controls. Although herpes family viruses will not be the primary focus of this follow-on study, we intend to further explore the associations identified in this hypothesis-generating study.",
+            "cite_spans": [],
+            "section": "Discussion",
+            "ref_spans": []
+        },
+        {
+            "text": "Stanley Medical Research Institute, Bethesda, MD; Department of the Army; Funding Cooperative Research and Development Agreement (DAMD control, No: 17-04-0041).",
+            "cite_spans": [],
+            "section": "Funding",
+            "ref_spans": []
+        }
+    ],
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Table 1.: Demographic and Military Characteristics of Study Subjects\n",
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Table 2.: Schizophrenia Hazard Ratio associated with Antibody Levels in Multiagent Modela\n",
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Table 3.: Schizophrenia Hazard Ratio associated with Antibody Levels in Multiagent Models by Sex and Racea\n",
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Table 4.: Hazard Ratios for HHV-6 Antibody Levels by Temporal Relationship to Diagnosis Among Men\n",
+            "type": "table"
+        }
+    },
+    "back_matter": [],
+    "bib_entries": {
+        "BIBREF0": {
+            "title": "The role of chronic infection and inflammation in the pathogenesis of cardiovascular and cerebrovascular disease",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Diomedi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Leone",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Renna",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Drugs Today (Barc)",
+            "volume": "41",
+            "issn": "",
+            "pages": "745-753",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF1": {
+            "title": "Antibodies to Toxoplasma gondii in individuals with first-episode schizophrenia",
+            "authors": [
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Bachmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ruslanova",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Clin Infect Dis",
+            "volume": "32",
+            "issn": "",
+            "pages": "842-844",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF2": {
+            "title": "Central nervous system changes in hepatitis C virus infection",
+            "authors": [
+                {
+                    "first": "DM",
+                    "middle": [],
+                    "last": "Forton",
+                    "suffix": ""
+                },
+                {
+                    "first": "SD",
+                    "middle": [],
+                    "last": "Taylor-Robinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "HC",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Eur J Gastroenterol Hepatol",
+            "volume": "18",
+            "issn": "",
+            "pages": "333-338",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF3": {
+            "title": "Human coronavirus OC43 infection induces chronic encephalitis leading to disabilities in BALB/C mice",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Jacomy",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Fragoso",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Almazan",
+                    "suffix": ""
+                },
+                {
+                    "first": "WE",
+                    "middle": [],
+                    "last": "Mushynski",
+                    "suffix": ""
+                },
+                {
+                    "first": "PJ",
+                    "middle": [],
+                    "last": "Talbot",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Virology",
+            "volume": "349",
+            "issn": "",
+            "pages": "335-346",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF4": {
+            "title": "Highlights from 5th International Conference on HHV-6 and -7",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Komaroff",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jacobson",
+                    "suffix": ""
+                },
+                {
+                    "first": "DV",
+                    "middle": [],
+                    "last": "Ablashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Yamanishi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Herpes",
+            "volume": "13",
+            "issn": "",
+            "pages": "81-82",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF5": {
+            "title": "Viruses, schizophrenia, and bipolar disorder",
+            "authors": [
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Clin Microbiol Rev",
+            "volume": "8",
+            "issn": "",
+            "pages": "131-145",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF6": {
+            "title": "Search for evidence of herpes simplex virus, type 1, or varicella-zoster virus infection in postmortem brain tissue from schizophrenic patients",
+            "authors": [
+                {
+                    "first": "RC",
+                    "middle": [],
+                    "last": "Alexander",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Cabirac",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lowenkopf",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Acta Psychiatr Scand",
+            "volume": "86",
+            "issn": "",
+            "pages": "418-420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF7": {
+            "title": "Herpes simplex virus antibodies in the cerebrospinal fluid of schizophrenic patients",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Bartova",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Rajcani",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pogady",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Acta Virol",
+            "volume": "31",
+            "issn": "",
+            "pages": "443-446",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF8": {
+            "title": "Herpes simplex virus, cytomegalovirus and Epstein-Barr virus antibody titers in sera from schizophrenic patients",
+            "authors": [
+                {
+                    "first": "LE",
+                    "middle": [],
+                    "last": "Delisi",
+                    "suffix": ""
+                },
+                {
+                    "first": "SB",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Hamovit",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Psychol Med",
+            "volume": "16",
+            "issn": "",
+            "pages": "757-763",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF9": {
+            "title": "Antibodies to Epstein-Barr virus, herpes simplex type 1, cytomegalovirus and measles virus in psychiatric patients",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gotlieb-Stematsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zonis",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Arlazoroff",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mozes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sigal",
+                    "suffix": ""
+                },
+                {
+                    "first": "AG",
+                    "middle": [],
+                    "last": "Szekely",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Arch Virol",
+            "volume": "67",
+            "issn": "",
+            "pages": "333-339",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF10": {
+            "title": "A survey of serum antibodies to eight common viruses in psychiatric patients",
+            "authors": [
+                {
+                    "first": "DJ",
+                    "middle": [],
+                    "last": "King",
+                    "suffix": ""
+                },
+                {
+                    "first": "SJ",
+                    "middle": [],
+                    "last": "Cooper",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Earle",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Br J Psychiatry",
+            "volume": "147",
+            "issn": "",
+            "pages": "137-144",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF11": {
+            "title": "Temporal relationship between elevation of Epstein-Barr virus antibody titers and initial onset of neurological symptoms in multiple sclerosis",
+            "authors": [
+                {
+                    "first": "LI",
+                    "middle": [],
+                    "last": "Levin",
+                    "suffix": ""
+                },
+                {
+                    "first": "KL",
+                    "middle": [],
+                    "last": "Munger",
+                    "suffix": ""
+                },
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Rubertone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "JAMA",
+            "volume": "293",
+            "issn": "",
+            "pages": "2496-2500",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF12": {
+            "title": "Immunoglobulin G antibodies to herpes simplex type 1 virus detected by radioimmunoassay in serum and cerebrospinal fluid of patients with schizophrenia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Halonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Puhakka",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Laitinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marttila",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Salmela",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J Clin Psychiatry",
+            "volume": "40",
+            "issn": "",
+            "pages": "241-243",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF13": {
+            "title": "Serum and CSF antibody levels to herpes simplex type 1, measles and rubella viruses in patients with schizophrenia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Nishmi",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Halonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Ann Clin Res",
+            "volume": "10",
+            "issn": "",
+            "pages": "291-293",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF14": {
+            "title": "A search for cytomegalovirus and herpes viral antigen in brains of schizophrenic patients",
+            "authors": [
+                {
+                    "first": "JR",
+                    "middle": [],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "JM",
+                    "middle": [],
+                    "last": "Langloss",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Albrecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "YN",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Arch Gen Psychiatry",
+            "volume": "41",
+            "issn": "",
+            "pages": "795-801",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF15": {
+            "title": "Schizophrenia and viral infection during neurodevelopment: a focus on mechanisms",
+            "authors": [
+                {
+                    "first": "BD",
+                    "middle": [],
+                    "last": "Pearce",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Mol Psychiatry",
+            "volume": "6",
+            "issn": "",
+            "pages": "634-646",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF16": {
+            "title": "In utero infection and adult schizophrenia",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Susser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Ment Retard Dev Disabil Res Rev",
+            "volume": "8",
+            "issn": "",
+            "pages": "51-57",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF17": {
+            "title": "Maternal cytokine levels during pregnancy and adult psychosis",
+            "authors": [
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Buka",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Tsuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Klebanoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "RL",
+                    "middle": [],
+                    "last": "Wagner",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Brain Behav Immun",
+            "volume": "15",
+            "issn": "",
+            "pages": "411-420",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF18": {
+            "title": "Association between prenatal exposure to poliovirus infection and adult schizophrenia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Suvisaari",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Haukka",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Tanskanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Hovi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lonnqvist",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Psychiatry",
+            "volume": "156",
+            "issn": "",
+            "pages": "1100-1102",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF19": {
+            "title": "Association between central nervous system infections during childhood and adult onset schizophrenia and other psychoses: a 28-year follow-up",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Rantakallio",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Jones",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Moring",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Von Wendt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Int J Epidemiol",
+            "volume": "26",
+            "issn": "",
+            "pages": "837-843",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF20": {
+            "title": "Infection, treatment and immune response in patients with bipolar disorder versus patients with major depression, schizophrenia or healthy controls",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Hinze-Selch",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Bipolar Disord",
+            "volume": "4",
+            "issn": "suppl 1",
+            "pages": "81-83",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF21": {
+            "title": "Prenatal exposure to maternal infection alters cytokine expression in the placenta, amniotic fluid, and fetal brain",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Urakubo",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Jarskog",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Lieberman",
+                    "suffix": ""
+                },
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Gilmore",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Schizophr Res",
+            "volume": "47",
+            "issn": "",
+            "pages": "27-36",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF22": {
+            "title": "Chronic inflammation: a common and important factor in the pathogenesis of neoplasia",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Schottenfeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Beebe-Dimmer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "CA Cancer J Clin",
+            "volume": "56",
+            "issn": "",
+            "pages": "69-83",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF23": {
+            "title": "Hematolymphopoietic and inflammatory cytokines in neural development",
+            "authors": [
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Mehler",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Kessler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Trends Neurosci",
+            "volume": "20",
+            "issn": "",
+            "pages": "357-365",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF24": {
+            "title": "Cytokines regulate the cellular phenotype of developing neural lineage species",
+            "authors": [
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Mehler",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Marmur",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gross",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Int J Dev Neurosci",
+            "volume": "13",
+            "issn": "",
+            "pages": "213-240",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF25": {
+            "title": "Maternal infection regulates BDNF and NGF expression in fetal and neonatal brain and maternal-fetal unit of the rat",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Gilmore",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Jarskog",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vadlamudi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Neuroimmunol",
+            "volume": "138",
+            "issn": "",
+            "pages": "49-55",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF26": {
+            "title": "Maternal poly I:C exposure during pregnancy regulates TNF alpha, BDNF, and NGF expression in neonatal brain and the maternal-fetal unit of the rat",
+            "authors": [
+                {
+                    "first": "JH",
+                    "middle": [],
+                    "last": "Gilmore",
+                    "suffix": ""
+                },
+                {
+                    "first": "LF",
+                    "middle": [],
+                    "last": "Jarskog",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Vadlamudi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Neuroimmunol",
+            "volume": "159",
+            "issn": "",
+            "pages": "106-112",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF27": {
+            "title": "Cytokines in brain development and function",
+            "authors": [
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Mehler",
+                    "suffix": ""
+                },
+                {
+                    "first": "JA",
+                    "middle": [],
+                    "last": "Kessler",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Adv Protein Chem",
+            "volume": "52",
+            "issn": "",
+            "pages": "223-251",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF28": {
+            "title": "Antibody levels to herpes simplex type I, measles and rubella viruses in psychiatric patients",
+            "authors": [
+                {
+                    "first": "PE",
+                    "middle": [],
+                    "last": "Halonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Arohonka",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Jantti",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "Br J Psychiatry",
+            "volume": "125",
+            "issn": "",
+            "pages": "461-465",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF29": {
+            "title": "Schizophrenia and viruses: principles of etiologic studies",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Libikova",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Research on the Viral Hypothesis of Mental Disorders",
+            "volume": "",
+            "issn": "",
+            "pages": "20-51",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF30": {
+            "title": "Serum IgG antibody to herpes viruses in schizophrenia",
+            "authors": [
+                {
+                    "first": "AL",
+                    "middle": [],
+                    "last": "Pelonero",
+                    "suffix": ""
+                },
+                {
+                    "first": "AK",
+                    "middle": [],
+                    "last": "Pandurangi",
+                    "suffix": ""
+                },
+                {
+                    "first": "VP",
+                    "middle": [],
+                    "last": "Calabrese",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Psychiatry Res",
+            "volume": "33",
+            "issn": "",
+            "pages": "11-17",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF31": {
+            "title": "Raised cytomegalovirus-antibody level in cerebrospinal fluid of schizophrenic patients",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Albrecht",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Boone",
+                    "suffix": ""
+                },
+                {
+                    "first": "JT",
+                    "middle": [],
+                    "last": "Hicks",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Daniel",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "Lancet",
+            "volume": "2",
+            "issn": "",
+            "pages": "769-772",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF32": {
+            "title": "The Defense Medical Surveillance System and the Department of Defense Serum Repository: glimpses of the future of public health surveillance",
+            "authors": [
+                {
+                    "first": "MV",
+                    "middle": [],
+                    "last": "Rubertone",
+                    "suffix": ""
+                },
+                {
+                    "first": "JF",
+                    "middle": [],
+                    "last": "Brundage",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Am J Public Health",
+            "volume": "92",
+            "issn": "",
+            "pages": "1900-1904",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF33": {
+            "title": "Antibodies to infectious agents in individuals at ultra-high risk for psychosis",
+            "authors": [
+                {
+                    "first": "GP",
+                    "middle": [],
+                    "last": "Amminger",
+                    "suffix": ""
+                },
+                {
+                    "first": "PD",
+                    "middle": [],
+                    "last": "McGorry",
+                    "suffix": ""
+                },
+                {
+                    "first": "GE",
+                    "middle": [],
+                    "last": "Berger",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Biol Psychiatry",
+            "volume": "61",
+            "issn": "10",
+            "pages": "1215-1217",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF34": {
+            "title": "Selected infectious agents and risk of schizophrenia among U.S. military personnel: an hypothesis-generating study of Toxoplasma gondii",
+            "authors": [
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Niebuhr",
+                    "suffix": ""
+                },
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Millikan",
+                    "suffix": ""
+                },
+                {
+                    "first": "DN",
+                    "middle": [],
+                    "last": "Cowan",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "NS",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Am J Psychiatry",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF35": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Wit",
+                    "suffix": ""
+                },
+                {
+                    "first": "JD",
+                    "middle": [],
+                    "last": "McClure",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Statistics for Microarrays Design, Analysis, and Inference",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF36": {
+            "title": "",
+            "authors": [
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Hosmer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lemeshow",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Applied Survival Analysis: Regression Modeling of Time to Event Data. Wiley Series in Probability and Statistics. Texts and Reference Section",
+            "volume": "",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF37": {
+            "title": "Viruses and schizophrenia",
+            "authors": [
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Kaufmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "DR",
+                    "middle": [],
+                    "last": "Weinberger",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "SG",
+                    "middle": [],
+                    "last": "Pofkin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Lancet",
+            "volume": "2",
+            "issn": "",
+            "pages": "1136-1137",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF38": {
+            "title": "Cytomegalovirus antibody in cerebrospinal fluid of schizophrenic patients detected by enzyme immunoassay",
+            "authors": [
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "CJ",
+                    "middle": [],
+                    "last": "Winfrey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Science",
+            "volume": "216",
+            "issn": "",
+            "pages": "892-894",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF39": {
+            "title": "Spinal fluid monoamine metabolites and anti-cytomegalovirus antibodies and brain scan evaluation in schizophrenia",
+            "authors": [
+                {
+                    "first": "DP",
+                    "middle": [],
+                    "last": "van Kammen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Mann",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Scheinin",
+                    "suffix": ""
+                },
+                {
+                    "first": "WB",
+                    "middle": [],
+                    "last": "van Kammen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Linnoila",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Psychopharmacol Bull",
+            "volume": "20",
+            "issn": "",
+            "pages": "519-522",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF40": {
+            "title": "Viral antibodies and interferon in acute psychiatric disorders",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahokas",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Koskiniemi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vaheri",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Julkunen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sarna",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "J Clin Psychiatry",
+            "volume": "48",
+            "issn": "",
+            "pages": "194-196",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF41": {
+            "title": "Serum and cerebrospinal fluid antibodies to cytomegalovirus in schizophrenia",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Rimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ahokas",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Palo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Acta Psychiatr Scand",
+            "volume": "73",
+            "issn": "",
+            "pages": "642-644",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF42": {
+            "title": "Cytomegalovirus and schizophrenia. A test of a viral hypothesis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Shrikhande",
+                    "suffix": ""
+                },
+                {
+                    "first": "SR",
+                    "middle": [],
+                    "last": "Hirsch",
+                    "suffix": ""
+                },
+                {
+                    "first": "JC",
+                    "middle": [],
+                    "last": "Coleman",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Reveley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dayton",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Br J Psychiatry",
+            "volume": "146",
+            "issn": "",
+            "pages": "503-506",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF43": {
+            "title": "Brain morphological changes associated with exposure to HSV1 in first-episode schizophrenia",
+            "authors": [
+                {
+                    "first": "KM",
+                    "middle": [],
+                    "last": "Prasad",
+                    "suffix": ""
+                },
+                {
+                    "first": "BH",
+                    "middle": [],
+                    "last": "Shirts",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                },
+                {
+                    "first": "MS",
+                    "middle": [],
+                    "last": "Keshavan",
+                    "suffix": ""
+                },
+                {
+                    "first": "VL",
+                    "middle": [],
+                    "last": "Nimgaonkar",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mol Psychiatry",
+            "volume": "12",
+            "issn": "",
+            "pages": "105-113",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF44": {
+            "title": "Serologic evidence of prenatal influenza in the etiology of schizophrenia",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "MD",
+                    "middle": [],
+                    "last": "Begg",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gravenstein",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Arch Gen Psychiatry",
+            "volume": "61",
+            "issn": "",
+            "pages": "774-780",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF45": {
+            "title": "Deficit schizophrenia: association with serum antibodies to cytomegalovirus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Dickerson",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Kirkpatrick",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Boronow",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Stallings",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Origoni",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Schizophr Bull",
+            "volume": "32",
+            "issn": "",
+            "pages": "396-400",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF46": {
+            "title": "Cytomegalovirus and schizophrenia",
+            "authors": [
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "MF",
+                    "middle": [],
+                    "last": "Leweke",
+                    "suffix": ""
+                },
+                {
+                    "first": "MJ",
+                    "middle": [],
+                    "last": "Schwarz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "CNS Drugs",
+            "volume": "20",
+            "issn": "",
+            "pages": "879-885",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF47": {
+            "title": "Evidence of human herpesvirus 6 infection in 4 immunocompetent patients with encephalitis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Isaacson",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Glaser",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Forghani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Clin Infect Dis",
+            "volume": "40",
+            "issn": "",
+            "pages": "890-893",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF48": {
+            "title": "Human herpesvirus 6 and multiple sclerosis: a one-year follow-up study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Alvarez-Lafuente",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "De Las Heras",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bartolome",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Garcia-Montojo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Arroyo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Brain Pathol",
+            "volume": "16",
+            "issn": "",
+            "pages": "20-27",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF49": {
+            "title": "Association of human herpesvirus-6B with mesial temporal lobe epilepsy",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Fotheringham",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Donati",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Akhyani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "PLoS Med",
+            "volume": "4",
+            "issn": "",
+            "pages": null,
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF50": {
+            "title": "Evaluation of data obtained from military disability medical administrative databases for service members with schizophrenia or bipolar disorder",
+            "authors": [
+                {
+                    "first": "AM",
+                    "middle": [],
+                    "last": "Millikan",
+                    "suffix": ""
+                },
+                {
+                    "first": "NS",
+                    "middle": [],
+                    "last": "Weber",
+                    "suffix": ""
+                },
+                {
+                    "first": "DW",
+                    "middle": [],
+                    "last": "Niebuhr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Mil Med",
+            "volume": "172",
+            "issn": "",
+            "pages": "1032-1038",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF51": {
+            "title": "A.E. Bennett Research Award. Prenatal rubella, premorbid abnormalities, and adult schizophrenia",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Cohen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Harkavy-Friedman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Biol Psychiatry",
+            "volume": "49",
+            "issn": "",
+            "pages": "473-486",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF52": {
+            "title": "Maternal exposure to toxoplasmosis and risk of schizophrenia in adult offspring",
+            "authors": [
+                {
+                    "first": "AS",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "CA",
+                    "middle": [],
+                    "last": "Schaefer",
+                    "suffix": ""
+                },
+                {
+                    "first": "CP",
+                    "middle": [],
+                    "last": "Quesenberry",
+                    "suffix": "Jr"
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "VP",
+                    "middle": [],
+                    "last": "Babulas",
+                    "suffix": ""
+                },
+                {
+                    "first": "ES",
+                    "middle": [],
+                    "last": "Susser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Am J Psychiatry",
+            "volume": "162",
+            "issn": "",
+            "pages": "767-773",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF53": {
+            "title": "Maternal infections and subsequent psychosis among offspring",
+            "authors": [
+                {
+                    "first": "SL",
+                    "middle": [],
+                    "last": "Buka",
+                    "suffix": ""
+                },
+                {
+                    "first": "MT",
+                    "middle": [],
+                    "last": "Tsuang",
+                    "suffix": ""
+                },
+                {
+                    "first": "EF",
+                    "middle": [],
+                    "last": "Torrey",
+                    "suffix": ""
+                },
+                {
+                    "first": "MA",
+                    "middle": [],
+                    "last": "Klebanoff",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bernstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "RH",
+                    "middle": [],
+                    "last": "Yolken",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Arch Gen Psychiatry",
+            "volume": "58",
+            "issn": "",
+            "pages": "1032-1037",
+            "other_ids": {
+                "DOI": []
+            }
+        },
+        "BIBREF54": {
+            "title": "Antibodies to infectious agents in individuals with recent onset schizophrenia",
+            "authors": [
+                {
+                    "first": "FM",
+                    "middle": [],
+                    "last": "Leweke",
+                    "suffix": ""
+                },
+                {
+                    "first": "CW",
+                    "middle": [],
+                    "last": "Gerth",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Koethe",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Eur Arch Psychiatry Clin Neurosci",
+            "volume": "254",
+            "issn": "",
+            "pages": "4-8",
+            "other_ids": {
+                "DOI": []
+            }
+        }
+    }
+}
