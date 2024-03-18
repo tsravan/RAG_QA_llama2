@@ -6,7 +6,7 @@ class _Constant:
     
     YML_CONFIG_FOLDER_NAME = 'config_yml'
     COMMON_CONFIG_FILE_NAME = "COMMON_CONFIG"
-    READ_CORD19_CONFIG_FILE_NAME = "read_cord19_config"
+    READ_CORD19_CONFIG_FILE_NAME = "read_data_config"
     CHROMADB_CONFIG_FILE_NAME = "chromadb_config"
     INFERENCE_CONFIG_FILE_NAME = "inference_config"
     

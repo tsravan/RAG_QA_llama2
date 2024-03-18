@@ -52,8 +52,8 @@ def get_cord19_data_dir():
         else:
             return cfg['cord19_dir']
         
-    elif cfg['cord19_dir'] != None:
-        print(f"---------> Using data available in {cfg['cord19_dir']}")
-        # sample_data_dir = Path(CONST.BASE_PATH, cfg['sample_data_folder_name'])
-        return cfg['cord19_dir']
+    elif cfg['cord19_dir'] == None:        
+        sample_data_dir = Path(CONST.BASE_PATH, cfg['sample_data_folder_name'])
+        print(f"---------> Using data available in {sample_data_dir}")
+        return sample_data_dir
 

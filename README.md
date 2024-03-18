@@ -19,7 +19,10 @@ Installation instructions:
 3. Download Llama2 model from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q5_0.bin?download=true
 
 How to run it the tool:
-1. Update model_path in inference_config.yml    
-2. Run fe_pipeline.py file, this will create chromadb
-3. Run app_main.py file -> In the termial run python -m streamlit run app_main.py --client.showErrorDetails=false
+1. Create a empty folder name chroma_db_covid_data in the project folder.
+2. Updating configs- Note config files are in path config/config_yml
+    - Update chromadb_path key in the chromadb_config.yml with the chroma_db_covid_data folder path you have created just now
+    - Update model_path key in inference_config.yml with the model file path where you have loaded llama2 model. 
+4. Run fe_pipeline.py file, this will create chromadb
+5. Run app_main.py file -> In the termial run python -m streamlit run app_main.py --client.showErrorDetails=false
 

@@ -42,7 +42,7 @@ def create_vector_db(data_dir, data_format=None):
     print('---------> Time take to create Chromadb collection',f"{str(datetime.timedelta(seconds=(time.time() - start_time)))} seconds.")
 
 
-def check_create_chromadb(cord19_data_dir, data_fomat):
+def check_create_chromadb(cord19_data_dir, data_format):
     ''' Checks for chroma db in specified chromadb_path along 
         with chromadb_collection_name. 
         If not found creating chromadb with specified chromadb_path and chromadb_collection_name
@@ -54,4 +54,4 @@ def check_create_chromadb(cord19_data_dir, data_fomat):
     except ValueError as val_error:
         if val_error =='Collection abc does not exist':
             print('------> Creating Chromadb')
-            create_vector_db(cord19_data_dir, data_format='*.json')
+            create_vector_db(cord19_data_dir, data_format=data_format)
