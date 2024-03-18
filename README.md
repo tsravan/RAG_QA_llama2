@@ -9,9 +9,9 @@
 We can currently use this application to query documents related to cord19 [dataset](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge), you can upload your own documents too...
 
 Architecture:
-![Architecture text](misc/Architecture2.drawio.png)
+![Architecture text]([misc/Architecture2.drawio.png](https://github.com/tsravan/RAG_QA_llama2/blob/main/misc/Architecture.drawio.png))
 
-[![QA BOT!](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/TH0njNC6oAY)
+[![QA BOT!](https://youtu.be/TH0njNC6oAY)
 
 Installation instructions:
 1. Install Python Version 3.11.8
