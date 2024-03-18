@@ -1,17 +1,17 @@
 # Question Answering Using, Langchain + ChromaDB + llama2 + Question Answering Evaluation
 
 ## A functional Question Answering project developed using:
-##  1. Langchain building RAG based question answering system using chromadb and llama2
-##  2. ChromaDB as vector database for storing the documents.
-##  3. llama2 llm for answering the question using the top matching answers retrieved from chromadb.
-##  4. Evaluating llama2 model
+###  1. Langchain building RAG based question answering system using chromadb and llama2
+###  2. ChromaDB as vector database for storing the documents.
+###  3. llama2 llm for answering the question using the top matching answers retrieved from chromadb.
+###  4. Evaluating llama2 model
 
-We can currently use this application to query documents related to cord19 [dataset](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge), you can upload your own documents too...
+Currently using this application to query documents related to cord19 [dataset](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge).
+Modify the configs if you want to use your own data.
 
-Architecture:
-![Architecture text]([misc/Architecture2.drawio.png](https://github.com/tsravan/RAG_QA_llama2/blob/main/misc/Architecture.drawio.png))
+![Architecture text](https://github.com/tsravan/RAG_QA_llama2/blob/main/misc/Architecture.drawio.png))
 
-[![QA BOT!](https://youtu.be/TH0njNC6oAY)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/TH0njNC6oAY/0.jpg)](http://www.youtube.com/watch?v=TH0njNC6oAY)
 
 Installation instructions:
 1. Install Python Version 3.11.8
