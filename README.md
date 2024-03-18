@@ -1,10 +1,10 @@
 # Question Answering Using, Langchain + ChromaDB + llama2 + Question Answering Evaluation
 
 ## A functional Question Answering project developed using:
-#  1. Langchain building RAG based question answering system using chromadb and llama2
-#  2. ChromaDB as vector database for storing the documents.
-#  3. llama2 llm for answering the question using the top matching answers retrieved from chromadb.
-#  4. Evaluating llama2 model
+##  1. Langchain building RAG based question answering system using chromadb and llama2
+##  2. ChromaDB as vector database for storing the documents.
+##  3. llama2 llm for answering the question using the top matching answers retrieved from chromadb.
+##  4. Evaluating llama2 model
 
 We can currently use this application to query documents related to cord19 [dataset](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge), you can upload your own documents too...
 
